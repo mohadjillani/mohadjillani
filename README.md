@@ -130,7 +130,7 @@ Organised by what I can take responsibility for, not just what I have used.
 |---|---|
 | **Role** | Tech Lead |
 | **Stack** | React · Node.js · AWS · Stripe · OpenAI APIs |
-| **Live** | [builderportal.devflips.com](https://builderportal.devflips.com) |
+| **Live** | [inovate.cistsahiwal.com](https://inovate.cistsahiwal.com/) |
 
 - Designed the **multi-tenant architecture** — tenant isolation, per-tenant configuration, and the plan model behind it.
 - Integrated **Stripe subscriptions** for recurring billing and plan lifecycle.
