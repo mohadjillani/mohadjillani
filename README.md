@@ -24,10 +24,10 @@
 
 ## What I do
 
-Six-plus years building web products end to end: I take a business problem, turn it into an architecture, build it with a team, and stay accountable for how it behaves in production.
+Seven-plus years building web products end to end: I take a business problem, turn it into an architecture, build it with a team, and stay accountable for how it behaves in production.
 
 - **Own the whole slice** — data model, API, frontend, deployment, and what happens when it breaks at 2am.
-- **Lead teams** — 4–6 engineers, sprint planning, code review, mentoring, and honest delivery estimates.
+- **Lead multiple teams** — up to 10 engineers across concurrent products: sprint planning, code review, mentoring, and honest delivery estimates.
 - **Translate both ways** — I can hold a requirements conversation with a founder and a schema conversation with a backend engineer in the same hour.
 - **Build for the long run** — performance, security, and maintainability are decisions made early, not cleanup done later.
 
@@ -39,9 +39,9 @@ I work best where the product still has open questions and someone needs to make
 
 | | |
 |---|---|
-| **6+ years** | Designing and shipping production web applications |
-| **20+ apps** | Delivered or contributed to across SaaS, logistics, mobility and internal tooling |
-| **4–6 engineers** | Team size led as Tech Lead, including mentoring and code review |
+| **7+ years** | Designing and shipping production web applications |
+| **30+ projects** | Real-world products delivered across SaaS, logistics, mobility and internal tooling |
+| **Up to 10 engineers** | Led across multiple concurrent teams, including mentoring and code review |
 | **+20% delivery speed** | Gained through clearer task breakdown and sprint planning |
 | **🥇 Gold Medalist** | Top graduate, BS Computer Science — GPA 3.68 / 4.0 |
 | **100% / 98%** | Server-Side Development (HKUST) · Certified IoT Developer (Top 5 nationally) |
@@ -183,7 +183,7 @@ Public repositories where I work through a hard problem properly and document th
 ### Meta Logix Tech — Senior Full Stack Developer / Team Lead
 `Feb 2022 – Present` · Sahiwal, Pakistan
 
-- Lead a cross-functional team of **4–6 engineers** across multiple concurrent web products.
+- Lead **multiple cross-functional teams of up to 10 engineers** across concurrent web products.
 - Own system architecture for React and Node.js applications deployed on AWS.
 - Improved delivery speed by **20%** through sharper requirement breakdown and sprint planning.
 - Mentor junior developers and run the code review process.
